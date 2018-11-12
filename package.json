@@ -1,0 +1,25 @@
+{
+  "name": "typescript-essential-training",
+  "version": "1.0.0",
+  "description": "TypeScript Essential Training from Linkedin Learning",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server --entry-file=index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeBandit/typescript-essential-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimeBandit/typescript-essential-training/issues"
+  },
+  "homepage": "https://github.com/TimeBandit/typescript-essential-training#readme"
+}
